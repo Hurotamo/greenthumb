@@ -1,0 +1,13 @@
+[package]
+name = "greenthumb"  
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-program = "2.0.11"  
+       
+[profile.dev]
+opt-level = "z"
