@@ -29,7 +29,7 @@ GreenThumb is a decentralized application (dApp) that leverages blockchain techn
 
 Clone the repository:
 
-   ```bash
+ ```bash
    git clone https://github.com/Hurotamo/greenthumb.git
    cd greenthumb
    ```
