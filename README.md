@@ -5,13 +5,13 @@ Gardening just got rewardning
 GreenThumb is a decentralized application (dApp) that leverages blockchain technology to promote urban gardening and sustainability. The platform incentivizes users with tokens for their gardening activities and provides a community-focused approach to enhancing urban greenery.
 
 ## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Smart Contract](#smart-contract)
-- [Deployment](#deployment)
-- [License](#license)
+- [Features]
+- [Technologies Used]
+- [Installation]
+- [Usage]
+- [Smart Contract]
+- [Deployment]
+- [License]
 
 ## Features
 - **Token Rewards**: Users earn GreenThumb tokens for engaging in gardening activities such as planting, watering, and harvesting.
